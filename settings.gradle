@@ -1,0 +1,2 @@
+rootProject.name = "MAD_04_Wallpaper_Changing_App"
+include ':app'
